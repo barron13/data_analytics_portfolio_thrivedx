@@ -2,8 +2,8 @@
 
 This repository contains projects and visualizations from the Data Science and Analytics Program with UNLV.
 
-##SQL
+## SQL
 
-##Statistics
+## Statistics
 
-##Visualizations
+## Visualizations
